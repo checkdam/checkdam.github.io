@@ -9,14 +9,21 @@ tags: [eco-tourism]
 
 ![hut in woods](https://cdn.pixabay.com/photo/2016/03/19/23/36/hut-1267670_1280.jpg)
 
-Imaging the feeling of connection from owning a share in a site, seeing it restored over years, participating in the restoration and restoring your connection to nature in the process.
+Imaging the feeling of connection from owning a share in a site, seeing it come back to life, participating in the restoration and restoring your connection to nature in the process.
 Somewhere that blossoms along with your family. Somewhere you feel safe and supported.
 
 ![boy by lake](https://cdn.pixabay.com/photo/2016/06/06/21/53/child-1440526_1280.jpg)
 
 Fun or relaxation for all the family. Kids clubs, excavator driving lessons, dam building, regenerative skills building.
 
+![food](https://media.istockphoto.com/id/1312283557/photo/classic-thai-food-dishes.jpg?s=2048x2048&w=is&k=20&c=DUmzzaJlEb8lfQQdL85DKJ98CUQnuWABfJq2SWKh9Fk=)
 
+Local culture and cuisine on site. Support authentic, co-operative businesses. Get to know the locals and take home new skills by joining cooking classes.
+As your site developes, more and more food will be produced on site. Learn to farm in innovate people and nature friendly ways e.g. syntropic agriculture.
+
+![relax](https://media.istockphoto.com/id/468139887/photo/smiling-mother-and-baby-laying-on-meadow.jpg?s=2048x2048&w=is&k=20&c=WXACUoQtNrWQkRO2-p6fPEevewDvUdOREzlTGnDOyT8=)
+
+Avoid the stress of independant travel with free airport transfers, integrated mobile app and consierge to help with the unexpected.
 
 
 ----------------
