@@ -9,7 +9,7 @@ tags: [eco-tourism]
 
 ![hut in woods](https://cdn.pixabay.com/photo/2016/03/19/23/36/hut-1267670_1280.jpg)
 
-Imaging the feeling of connection from owning a share in a site site, seeing it restored over years, participating in the restoration and restoring your connection to nature in the process.
+Imaging the feeling of connection from owning a share in a site, seeing it restored over years, participating in the restoration and restoring your connection to nature in the process.
 Somewhere that blossoms along with your family. Somewhere you feel safe and supported.
 
 ![boy by lake](https://cdn.pixabay.com/photo/2016/06/06/21/53/child-1440526_1280.jpg)
