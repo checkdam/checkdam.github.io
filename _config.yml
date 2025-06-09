@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: checkdam.org
+title: Checkdam.org
 
 # Your name to show in the footer
-author: Peter Wilkins
+#author: Peter Wilkins
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,6 +22,7 @@ author: Peter Wilkins
 navbar-links:
   Trustees: "Trustees"
   Mission: "Mission"
+  Links: "Links"
 
 ################
 # --- Logo --- #
@@ -29,7 +30,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/vortex-logo.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -82,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: Checkdam.org restoring landscapes and people, eco-tourism
+rss-description: Checkdam.org restoring landscapes and people, eco-tourism, mental health
 
 ###########################
 # --- General options --- #
@@ -136,7 +137,7 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#0bcde3"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
