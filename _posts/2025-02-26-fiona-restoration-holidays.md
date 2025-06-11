@@ -7,14 +7,14 @@ share-img: /assets/img/path.jpg
 tags: [eco-tourism]
 ---
 
-![hut in woods](https://cdn.pixabay.com/photo/2016/03/19/23/36/hut-1267670_1280.jpg)
-
 Imaging the feeling of connection from owning a share in a site, seeing it come back to life, participating in the restoration and restoring your connection to nature in the process.
 Somewhere that blossoms along with your family. Somewhere you feel safe and supported.
 
-![boy by lake](https://cdn.pixabay.com/photo/2016/06/06/21/53/child-1440526_1280.jpg)
+![hut in woods](https://cdn.pixabay.com/photo/2016/03/19/23/36/hut-1267670_1280.jpg)
 
 Fun or relaxation for all the family. Kids clubs, excavator driving lessons, dam building, regenerative skills building.
+
+![boy by lake](https://cdn.pixabay.com/photo/2016/06/06/21/53/child-1440526_1280.jpg)
 
 ![food](https://media.istockphoto.com/id/1312283557/photo/classic-thai-food-dishes.jpg?s=2048x2048&w=is&k=20&c=DUmzzaJlEb8lfQQdL85DKJ98CUQnuWABfJq2SWKh9Fk=)
 
