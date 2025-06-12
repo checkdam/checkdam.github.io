@@ -25,38 +25,22 @@ As your site developes, more and more food will be produced on site. Learn to fa
 
 Avoid the stress of independant travel with free airport transfers, integrated mobile app and consierge to help with the unexpected.
 
+If you would like to invest in a site the kickstarter is here.
 
-----------------
-why Fiona?
+The first sites will be opening in 2026, if you would like to be notified when bookings open please complete the form below.
 
-----------------
+todo - form
 
-Water heroes Theme park element, schbergeer etc, interactive,
 
-club / non-profit / timeshare - partner with regen experts
+kickstarter
+gifts unlimited:
+stickers $10
+t shirts $30
+1 time discount on bookings $100 for 10% off
+lifetime discounts on bookings $500 for 10% off
 
-mass produced habitat tents - one per tree island - grey water irrigation, solar power, phase change ceiling, private views once trees are estabished
-
-luxaries - solar water, tv, high speed internet, tennis courts, kids clubs, airport transfers, loads of bikes  etc
-
-bespoke swimming lake - spring terrace - carbon filtered, weed free, shallow bays for young kids, shaded areas, safe free watersports, enough water stored uphill to maintain level
-
-nature ponds in woods, shaded eye level comfy viewing pads to lie in
-
-multiple countries - local cusine and entertainment - agroforestry on site - free pyo fruits and nuts eventually
-
-nature integrated - wild zones, bird hides, education, online tracker of biodiversity change, citizen science, volunteer work
-
-gamification - badges for sites and members - ant -> axelotle
-
-design goals - fire proof (willows boarder) - self sufficient - paths double as waterways, noisy hub,
-
-how to identify good sites for terrace springs?
-
-monitoring wells
-
-hire local farm managers and send them to existing syntropic projects for training
-
-marketing - fast, cheap, good: pick 2 - burning man feel in early days - evolve into family friendly / luxury
-
-layout: (make model) on countour road-check-dams, zigzag "escalators" on headlands, food trees along roads, road building/sealing?
+ownership - limited :
+1/2/4 weeks a year timeshare - can resell  $1000 400
+unlimited (over 4 weeks subject to availability)  $2000 100
++ bugout option in future (after 5 years) $3000  50
+permenent resident (100 year leasehold) in future (after 10 years) $50,000 5

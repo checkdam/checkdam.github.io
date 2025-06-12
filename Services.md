@@ -5,7 +5,7 @@ title: Services
 
 **Speaking engagement**
 
-We are happy to present on Water Cycle Restoration and our work in person or online if you can guarantee and audience of at least 50.
+We are happy to present on Water Cycle Restoration and our work in person or online if you can guarantee an audience of at least 50.
 
 ---------------
 
