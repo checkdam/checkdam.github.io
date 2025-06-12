@@ -23,6 +23,6 @@ With qualified instructors and safety proceedures it is not unreasonable to let 
 At our water cycle restoration youth camps, participation is optional. Young people earn points creating water retention features by hand, learning by interacting with their environment.
 The points translate into time on the digger, once they have developed the basic skills (in about 20 minutes) they can do real work on the project.
 
-Interested in joining one of our camps? Complete the form below and we will email when registration opens.
+Interested in one of our camps? Complete the form below and we will email when registration opens.
 
-todo - form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOJE1mwONh_8NckjOeaDSfnwwvCRPwbaanp5S3n37R0EPVwA/viewform?embedded=true" width="640" height="586" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
