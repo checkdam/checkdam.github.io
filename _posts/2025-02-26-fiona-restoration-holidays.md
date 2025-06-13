@@ -7,6 +7,8 @@ share-img: /assets/img/path.jpg
 tags: [eco-tourism]
 ---
 
+WORK IN PROGRESS
+
 Imaging the feeling of connection from owning a share in a site, seeing it come back to life, participating in the restoration and restoring your connection to nature in the process.
 Somewhere that blossoms along with your family. Somewhere you feel safe and supported.
 

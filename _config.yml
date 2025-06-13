@@ -20,6 +20,10 @@ title: Checkdam.org
 ###############################################
 
 navbar-links:
+  Experiences:
+    - Saplings 12 - 18: "saplings"
+    - Pioneers 18 - 30: "pioneers"
+    - Families: "families"
   Services: "Services"
   Trustees: "Trustees"
   Mission: "Mission"

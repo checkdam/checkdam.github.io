@@ -8,6 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [eco-tourism]
 ---
 
+WORK IN PROGRESS
+
 24th May 2025, 8am, 35 intrepid water cycle restorers gather at Quintas das Abelhas, [Mark's beautiful farm](https://growback.eu) in Central Portugal.
 
 After intro's, the first order of business, unsurprisingly, was water. A tour of the Spring house and instructions on how to collect water without making a mess.

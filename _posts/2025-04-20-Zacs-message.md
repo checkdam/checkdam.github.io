@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zac's message'
+title: Zac's message
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg

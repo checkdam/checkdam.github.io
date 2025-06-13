@@ -16,7 +16,7 @@ And there is the snowball effect - how much carbon dioxide was released during o
 
 So, without any judgement, perhaps there is space to consider alternative evidence based solutions.
 
-In India, water cycle restoration has already resulted in 2 degrees celcius drop in regional average temperatures, and a shift from 2% to 48% green cover, amoung many other benifits [reports](https://tarunbharatsangh.in/impact/#Report) todo - temp change study
+In India, water cycle restoration has already resulted in 2 degrees celcius drop in regional average temperatures, and a shift from 2% to 48% green cover, amoung many other [benefits](https://tarunbharatsangh.in/impact/#Report)
 
 ![tarunbharatsangh.in](https://tarunbharatsangh.in/wp-content/uploads/2023/03/Water-Conservation-38.jpg.webp)
 
