@@ -11,7 +11,9 @@ A friend of mine had her wordpress website disappear thanks to the paid webhost,
 
 This is my choosen way to setup a website - mainly because it is free and the world would fall apart if github went away.
 
-It may take a little effort to learn the basics of git but means every version you save is available forever. Great if you delete something by mistake.
+It may take a little effort to either learn to use the github UI or setup and learn the basics of git but means every version you save is available forever.
+Great if you delete something by mistake.
+Careful - it is a slippery slope, you may end up a programmer, a terrible fate to be sure.
 
 ### Get a domain (optional)
 
@@ -34,6 +36,9 @@ Read through the _config.yml file. You can change colors, logos, social links, a
 You can make changes on the github website - but I can't advise on that - I prefer to have a local copy for editor highlighting and offline working.
 
 todo: editor, ssh keys, git add, commit, push. email me if you want it part of the guide :)
+[ssh github guide](https://medium.com/@kyledeguzmanx/quick-step-by-step-guide-to-generating-an-ssh-key-in-github-d3c6f7e185bb)
+[a nice editor](https://zed.dev/)
+[git guide](https://rogerdudler.github.io/git-guide/)
 
 When you make a change github will build and publish the new version. Reload the page after a minute and your changes should show. todo troubleshooting.
 
