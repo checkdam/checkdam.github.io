@@ -33,7 +33,7 @@ Read through the _config.yml file. You can change colors, logos, social links, a
 
 You can make changes on the github website - but I can't advise on that - I prefer to have a local copy for editor highlighting and offline working.
 
-todo: editor, ssh keys, git add, commit, push
+todo: editor, ssh keys, git add, commit, push. email me if you want it part of the guide :)
 
 When you make a change github will build and publish the new version. Reload the page after a minute and your changes should show. todo troubleshooting.
 
@@ -46,3 +46,5 @@ Is a simple way to make things pretty. [cheat sheet](https://markdownguide.offsh
 [guide](https://melissahie.com/blog/github-pages-custom-domain-ionos)
 
 you can also make an email for your domain with Ionos and forward mail to your google account.
+
+There you go! Share this site to your networks please. Spread the good water word. peace.
