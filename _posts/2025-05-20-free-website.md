@@ -36,8 +36,11 @@ Read through the _config.yml file. You can change colors, logos, social links, a
 You can make changes on the github website - but I can't advise on that - I prefer to have a local copy for editor highlighting and offline working.
 
 todo: editor, ssh keys, git add, commit, push. email me if you want it part of the guide :)
+
 [ssh github guide](https://medium.com/@kyledeguzmanx/quick-step-by-step-guide-to-generating-an-ssh-key-in-github-d3c6f7e185bb)
+
 [a nice editor](https://zed.dev/)
+
 [git guide](https://rogerdudler.github.io/git-guide/)
 
 When you make a change github will build and publish the new version. Reload the page after a minute and your changes should show. todo troubleshooting.
