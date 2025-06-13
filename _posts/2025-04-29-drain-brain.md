@@ -14,9 +14,9 @@ Poor sanitation caused disease and insect issues and water was the carrier.
 
 There were plentiful wetlands and a stable climate so drains some land to grow crops in the rich soil wasn't too harmful, at first.
 
-However, in recent times we are learning that these actions affect the climate and cause so called natural disasters.
+However, in recent times we are learning that these actions affect the climate and cause so-called natural disasters.
 
-Reducing vegitation (clear cutting and ploughing) reduces rainfall locally.
+Reducing vegitation (clear-cutting and ploughing) reduces rainfall locally.
 
 It also reduces water inflitration. This could be due to the fact that hot bare soil repels dropleta like a frying pan.
 It could also be that plants pump sugars into the ground. Sugar being hydrophyllic (note the crust on a sugar bowl left out) could be drawing the water in.
@@ -32,7 +32,7 @@ But don't lose hope. Humanity is just as capable of being a positive force as a 
 The steps to reverse climate change are simple enough for children to implement and nature is on the team and will take over management once extablished.
 
 - Reforest the uplands and hillsides (but not monoculture tree farms)
-- Heal the wounds - gulleys, tile and other drainage features lower ground water reducing vegitation. Checkdams and beavers ftw.
+- Heal the wounds - gulleys, tile and other drainage features lower groundwater reducing vegitation. Checkdams and beavers ftw.
 - restore the coastal wetlands that buffer storm surges
 
 We need to change our relationship with water.

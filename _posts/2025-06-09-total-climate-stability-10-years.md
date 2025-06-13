@@ -20,7 +20,7 @@ In India, water cycle restoration has already resulted in 2 degrees celcius drop
 
 ![tarunbharatsangh.in](https://tarunbharatsangh.in/wp-content/uploads/2023/03/Water-Conservation-38.jpg.webp)
 
-Science and pdfs are all good but you can experienced directly the effects of water.
+You can directly experience the effects of water.
 - Compare burning your feet on hot sand at the beach vs walking barefoot in the woods or in a meadow.
 - Try starting a fire with wet wood.
 - Sit in the hot sun for an hour and then in the shade of a tree.
@@ -39,6 +39,6 @@ You might divert a gutter into a rain garden. This will increase life in your ar
 Join the waterstories community and "find the others" in your area.
 If you really can't find any action in your neighbourhood you can join us on a [Restoration Holiday](https://checkdam.org/2025-02-26-fiona-restoration-holidays/) and even own a part of the endevour.
 
-Together we can save ourselves from flood, fire and drought, which are man made disasters, and see impressive effects in as little as one year. We can make heaven on earth in a lifetime.
+Together we can save ourselves from flood, fire and drought, which are man-made disasters, and see impressive effects in as little as one year. We can make heaven on earth in a lifetime.
 
 Learn more at [Water Stories](https://www.waterstories.com)

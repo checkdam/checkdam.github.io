@@ -20,7 +20,7 @@ I also feel some sort of transmission happened, perhaps something in the water, 
 The waterstories team are definetly inspired and Mark's love for trees shines through. The sentiment is summed up well in [Zac's message](https://checkdam.org/2025-04-20-zacs-message/)
 
 Large interventions can seem quite radicle (a war zone)
-12 hour days, break down, build up, heart opens, nature responds, turtle and snake in pond
+12-hour days, break down, build up, heart opens, nature responds, turtle and snake in pond
 Henry's funny model intro
 
 Digger Smile

@@ -11,7 +11,7 @@ Checkdam.org has a mission to bring the experience, empowerment and ownership of
 
 Possible activities:
 - Visiting schools to provide support  to students designing, building and monitoring water retention features on the grounds.
-- Eco-tourism where schools and family can relax or get involved in the water restoration going on around them. Centre parcs meets Diggerland meets VSO.
+- Ecotourism where schools and family can relax or get involved in the water restoration going on around them. Centre parcs meets Diggerland meets VSO.
 - Investment opportunities and sense of ownership and involvement in places coming back to life.
 - Retreats where people can reconnect with nature and themselves through learning and working with water.
 

@@ -7,9 +7,9 @@ share-img: /assets/img/path.jpg
 tags: [eco-tourism]
 ---
 
-I recently asked a bunch of 10 year olds: would they rather drive a lamborgini or a digger?
+I recently asked a bunch of 10-year-olds: would they rather drive a lamborgini or a digger?
 The response was instant and unanimous for the digger. And I agree with them.
-On the Waterstories instensive course we called it digger smile, it was clear when someone had just had there lesson.
+On the Waterstories instensive course we called it digger smile, it was clear when someone had just had their lesson.
 
 Armed With this knowledge, we can now harness one of the most powerful forces in the universe - child labour.
 There is nothing like it, a bunch of motovated and self organizing young people, bursting with energy.
