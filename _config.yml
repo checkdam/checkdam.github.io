@@ -20,6 +20,10 @@ title: Checkdam.org
 ###############################################
 
 navbar-links:
+  Campaigns:
+    - Co-Operative Ownership: "ownership"
+    - Sewage Overflow Alleviation: "sewage"
+    - Checkdam Matchmakers: "matchmaking"
   Experiences:
     - Saplings, ages 12-18: "saplings"
     - Pioneers, ages 18-25: "pioneers"
