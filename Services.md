@@ -3,7 +3,10 @@ layout: page
 title: Checkdam LTD
 ---
 
-Retaining water in landscapes has many benefits: more green, carbon capture, less flooding below, groundwater recharge, wells and spring return, ultimately the cool climate is restored. The list goes on.
+We offer busy farmers and land stewards complete water retention services: applying for Capital Grants, liaising with Catchment Sensitive Farming Advisers and completing the work to an excellent standard.
+
+Retaining water in the earth has many benefits: more photosynthesis, more carbon capture, balances out flood and drought, groundwater is recharged, wells and spring return and the climate is cooled.
+
 
 Earth integrated (unlined) water bodies with clay keyed dams, infiltration terraces and erosion check dams achieve these benefits using natural resources on site. The features can last for hundreds to thousands of years with a small amount of maintenance if built well. Having trained with the Water Stories team, I have the skills, experience and support to create resilient and beautiful water retention features.
 
