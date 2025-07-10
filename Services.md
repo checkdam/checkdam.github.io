@@ -21,7 +21,7 @@ Earth integrated (unlined) water bodies with clay keyed dams, infiltration terra
 
 After careers in Outdoor Education and finacial Software Engineering, Peter found water cycle restoration and discovered it was the key to healing long term mental health issues.
 With a strong desire to share this discovery and help steer humanity back to it's true purpose of land stewardship in sympathy with nature, he started checkdam.org.
-[email](mailto:info@checkdam.co.uk)
+[email](mailto:peter@checkdam.co.uk)
 [linkdin](www.linkedin.com/in/peter-wilkins-2759b6146)
 [instagram](https://www.instagram.com/peter_checkdam_org/)
 [youtube](https://www.youtube.com/@peter_checkdam_org/playlists)

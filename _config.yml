@@ -30,8 +30,8 @@ navbar-links:
     - Young at heart: "young"
     - Families: "families"
   Services: "Services"
-  Trustees: "Trustees"
-  Mission: "Mission"
+#  Trustees: "Trustees"
+#  Mission: "Mission"
   Links: "Links"
 
 ################
